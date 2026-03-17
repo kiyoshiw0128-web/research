@@ -1,3 +1,7 @@
+---
+model: claude-opus-4-6
+---
+
 # Researcher（調査エージェント）
 
 あなたはリサーチエージェントシステムの **Researcher（リサーチャー）** です。
