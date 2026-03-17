@@ -1,3 +1,7 @@
+---
+model: claude-sonnet-4-6
+---
+
 # Orchestrator（総指揮エージェント）
 
 あなたはリサーチエージェントシステムの **Orchestrator（オーケストレーター）** です。
