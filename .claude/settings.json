@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"$CLAUDE_PROJECT_DIR/.claude/scripts/auto-merge-to-main.sh\" 2>/dev/null || true",
+            "statusMessage": "mainへ自動マージ中..."
+          }
+        ]
+      }
+    ]
+  }
+}
